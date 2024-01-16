@@ -1,2 +1,2 @@
-# SQL_Chalenge_1
+# SQL_Challenge_1
 In this file, SQL queries are more difficult than from our ordinary SQL homework queries so I've called it as a SQL challenge file. As you can see from the file, I've used some different keywords (SELECT, SELECT TOP, WHERE ,ORDER BY, GROUP BY),some different functions,aggregate functions, subqueries, aliases and joins altogether. Also, with the help of the DISTINCT keyword, we can get different values and remove the duplicates from the table. 
